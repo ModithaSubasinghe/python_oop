@@ -1,5 +1,5 @@
-from Flatmates_Bill_App.flat import Bill, Flatmate
-from Flatmates_Bill_App.reports import PdfReport
+from Flatmates_Bill_App_02.flat import Bill, Flatmate
+from Flatmates_Bill_App_02.reports import PdfReport
 
 amount = float(input("Hey user, enter the bill amount: "))
 period = input("what is the bill period? (E.g. December 2020): ")

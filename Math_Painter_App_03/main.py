@@ -1,5 +1,5 @@
-from Math_Painter_App.canvas import Canvas
-from Math_Painter_App.shapes import Rectangle, Square
+from Math_Painter_App_03.canvas import Canvas
+from Math_Painter_App_03.shapes import Rectangle, Square
 
 #Get canvas width and height from the user
 canvas_width = int(input("Enter canvas width: "))
